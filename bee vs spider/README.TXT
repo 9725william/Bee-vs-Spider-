@@ -9,4 +9,4 @@ PURPOSE OF PROJECT:Profundiczar conosimientos en Java
 VERSION or DATE:vs1/2022
 HOW TO START THIS PROJECT: Descar Greeenfoort
 AUTHORS: william andres Rodriguez Orozco
-USER INSTRUCTIONS:
+USER INSTRUCTIONS:desarrollado para niños 
